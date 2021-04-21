@@ -1,0 +1,469 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"getFareInfo\tfunction"
+			],
+			[
+				"cal",
+				"Calculator\tclass"
+			],
+			[
+				"progr",
+				"Programmer\tclass"
+			],
+			[
+				"S",
+				"s"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"sub",
+				"sub2\tstatement"
+			],
+			[
+				"fav",
+				"favLang\tstatement"
+			],
+			[
+				"mark",
+				"markList\tstatement"
+			],
+			[
+				"guess",
+				"guesses\tstatement"
+			],
+			[
+				"rand",
+				"randNumber\tstatement"
+			],
+			[
+				"v",
+				"Vector\tclass"
+			],
+			[
+				"compex",
+				"Complex\tclass"
+			],
+			[
+				"comple",
+				"Complex\tclass"
+			],
+			[
+				"com",
+				"Complex\tclass"
+			],
+			[
+				"sala",
+				"salary\tstatement"
+			],
+			[
+				"c3",
+				"C3dvector\tclass"
+			],
+			[
+				"c2",
+				"C2dvector\tclass"
+			],
+			[
+				"PRO",
+				"property\tclass"
+			],
+			[
+				"salary",
+				"salaryBonus\tstatement"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"c",
+				"changeSalary\tfunction"
+			],
+			[
+				"pr",
+				"programmer\tclass"
+			],
+			[
+				"boo",
+				"bookTicket"
+			],
+			[
+				"Squ",
+				"squareroot"
+			],
+			[
+				"get",
+				"getDetails"
+			],
+			[
+				"pla",
+				"Player\tclass"
+			],
+			[
+				"prin",
+				"printData\tfunction"
+			],
+			[
+				"hi",
+				"Hiscore"
+			],
+			[
+				"ran",
+				"rand_no\tstatement"
+			],
+			[
+				"sum",
+				"sum_of_n\tfunction"
+			],
+			[
+				"ma",
+				"maximum\tfunction"
+			],
+			[
+				"facto",
+				"factorial_recursive\tfunction"
+			],
+			[
+				"end",
+				"end=\tparam"
+			],
+			[
+				"a",
+				"apple"
+			],
+			[
+				"upd",
+				"update\tfunction"
+			],
+			[
+				"marks",
+				"marks_list\tstatement"
+			],
+			[
+				"m",
+				"m3\tstatement"
+			],
+			[
+				"PR",
+				"print\tfunction"
+			],
+			[
+				"de",
+				"defs\tMethod"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"File: Copy Path as URI"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 220.0,
+		"history":
+		[
+			"exit()",
+			"a = input (\"your name \")",
+			"niemsh",
+			"sdas",
+			"playsound('storage\\\\emulated\\\\0\\\\pyhon\\\\cradles.mp3'')",
+			"from playsound import playsound",
+			"print(os.listdir())",
+			"import os",
+			"print(\"hello world\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/1/Documents/py/self_practice/main.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/14_pr05.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/11_pr03.py",
+		"/C/Users/1/Documents/py/self_practice/copy.txt",
+		"/C/Users/1/Documents/py/self_practice/poem.txt",
+		"/C/Users/1/Documents/py/chapter9-File I _O/11_pr07.py",
+		"/C/Users/1/Documents/py/self_practice/multiplication table of 2.txt",
+		"/C/Users/1/Documents/py/self_practice/multiplication table of 3.txt",
+		"/C/Users/1/Documents/py/chapter9-File I _O/07_pr03.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/06_pr02_game.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/08_pr04.py",
+		"/C/Users/1/Documents/py/self_practice/Hiscore.txt",
+		"/C/Users/1/Documents/py/chapter8-Function & Recursion/11_pr07.py",
+		"/C/Users/1/Documents/py/chapter8-Function & Recursion/08_pr04.py",
+		"/C/Users/1/Documents/py/chapter7-loops in python/15_pr06.py",
+		"/C/Users/1/Documents/py/chapter7-loops in python/14_pr05.py",
+		"/C/Users/1/Documents/py/chapter7-loops in python/12_pr03.py",
+		"/C/Users/1/Documents/py/chapter7-loops in python/11_pr02.py",
+		"/C/Users/1/Documents/py/chapter6-Conditional Expresseions/07_pr_03.py",
+		"/C/Users/1/Documents/py/Chapter5-Dictionary&sets/07_pr_03.py",
+		"/C/Users/1/Documents/py/project2/main.py",
+		"/C/Users/1/Documents/py/project1/game.py",
+		"/C/Users/1/Documents/py/project2/score.txt",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/16_pr07.py",
+		"/C/Users/1/Documents/py/project2",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/15_pr05.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/13_pr04.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/10_pr01.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/12_pr03.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/06_class_Methods.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/11_pr02.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/09_other_dunders.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/14_pr06.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/07_property_decorator.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/08_operator_overloading.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/05_super.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/04_multilevel_ingeritance.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/03_multiple_inheritance.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/02_single_inheritance.py",
+		"/C/Users/1/Documents/py/chapter11-inheritance_&_more_on_oops/01_inheritance.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/13_pr05.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/12_pr04.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/10_pr02.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/09_pr01.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/08_constructor.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/07_static_method.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/06_self.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/04_employee.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/05_instance_class_attribute.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/02_oops_railway.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/03_game_example.py",
+		"/C/Users/1/Documents/py/chapter10-object oriented programming/01_oops.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/15_Pr11.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/12_pr08.py",
+		"/C/Users/1/Documents/py/chapter10-object_oriented_programing",
+		"/C/Users/1/Documents/py/chapter9-File I _O/this.txt",
+		"/C/Users/1/Documents/py/chapter9-File I _O/13_pr09.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/14_pr10.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/copy.txt",
+		"/C/Users/1/Documents/py/chapter9-File I _O/copi.txt",
+		"/C/Users/1/Documents/py/chapter9-File I _O/practice.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/log.txt",
+		"/C/Users/1/Documents/py/chapter9-File I _O/10_pr06.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/09_pr05.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/sample.txt",
+		"/C/Users/1/Documents/py/chapter9-File I _O/main.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/Hiscore.txt",
+		"/C/Users/1/Documents/py/chapter9-File I _O/table/multiplication table of 2",
+		"/C/Users/1/Documents/py/chapter9-File I _O/multiplication table of 2",
+		"/C/Users/1/Documents/py/chapter9-File I _O/05_pr01.py",
+		"/C/Users/1/Documents/py/chapter9-File I _O/poem.txt",
+		"/C/Users/1/Documents/py/chapter9-File I or O/04_with.py",
+		"/C/Users/1/Documents/py/chapter9-File I or O/this.txt",
+		"/C/Users/1/Documents/py/chapter9-File I or O/practice.py",
+		"/C/Users/1/Documents/py/chapter9-File I or O/03_write.py",
+		"/C/Users/1/Documents/py/chapter9-File I or O/02_readlines.py",
+		"/C/Users/1/Documents/py/chapter9-File I or O/another.txt",
+		"/C/Users/1/Documents/py/chapter9-File I or O/sample.txt",
+		"/C/Users/1/Documents/py/chapter9-File I or O/01_Files.py",
+		"/C/Users/1/Documents/py/chapter9-File I or O/09_01_Files.py",
+		"/C/Users/1/Documents/py/project1/main.py",
+		"/C/Users/1/Documents/py/chapter8-Function & Recursion/chapter9-File I/O",
+		"/C/Users/1/Documents/py/chapter8/12_pr08.py",
+		"/C/Users/1/Documents/py/project1",
+		"/C/Users/1/Documents/py/chapter8/11_pr07.py",
+		"/C/Users/1/Documents/py/chapter8/10_pr06.py",
+		"/C/Users/1/Documents/py/chapter8/09_pr05.py",
+		"/C/Users/1/Documents/py/chapter8/08_pr04.py",
+		"/C/Users/1/Documents/py/chapter8/07_pr03.py",
+		"/C/Users/1/Documents/py/chapter8/05_pr01.py",
+		"/C/Users/1/Documents/py/chapter8/06_pr02.py",
+		"/C/Users/1/Documents/py/chapter8/04_facotrial.py",
+		"/C/Users/1/Documents/py/chapter8/01_function.py",
+		"/C/Users/1/Documents/py/chapter8/02_quick_quiz.py",
+		"/C/Users/1/Documents/py/chapter8/03_default_argument.py",
+		"/C/Users/1/Documents/py/chapter7/18_pr09.py",
+		"/C/Users/1/Documents/py/chapter7/2nd_method_practice_pattern.py",
+		"/C/Users/1/Documents/py/chapter7/prac.py",
+		"/C/Users/1/Documents/py/Chapter4/09_pr04.py",
+		"/C/Users/1/Documents/py/chapter7/practice_patterns.py",
+		"/C/Users/1/Documents/py/chapter7/19_pr10.py",
+		"/C/Users/1/Documents/py/chapter7/13_pr04.py",
+		"/C/Users/1/Documents/py/chapter7/16_pr07.py",
+		"/C/Users/1/Documents/py/chapter7/17_pr08.py",
+		"/C/Users/1/Documents/py/chapter7/15_pr06.py",
+		"/C/Users/1/Documents/py/chapter7/14_pr05.py",
+		"/C/Users/1/Documents/py/chapter7/07_break_statement.py",
+		"/C/Users/1/Documents/py/chapter7/12_pr03.py",
+		"/C/Users/1/Documents/py/chapter7/11_pr02.py",
+		"/C/Users/1/Documents/py/chapter7/10_pr_01.py",
+		"/C/Users/1/Documents/py/chapter7/08_continue_statement.py",
+		"/C/Users/1/Documents/py/chapter7/09_pass_statment.py",
+		"/C/Users/1/Documents/py/chapter7/practice.py",
+		"/C/Users/1/Documents/py/chapter7/06_for_else.py",
+		"/C/Users/1/Documents/py/chapter7/practice ",
+		"/C/Users/1/Documents/py/chapter7/practice",
+		"/C/Users/1/Documents/py/chapter7/05_range_function.py",
+		"/C/Users/1/Documents/py/chapter7/04_forloop_printlist.py",
+		"/C/Users/1/Documents/py/chapter7/03_print_list.py",
+		"/C/Users/1/Documents/py/chapter7/02_quick_quiz.py",
+		"/C/Users/1/Documents/py/chapter6/11_pr_07.py",
+		"/C/Users/1/Documents/py/chapter7/01_while_loop.py",
+		"/C/Users/1/Documents/py/chapter6/09_pr_05.py",
+		"/C/Users/1/Documents/py/chapter6/10_pr_06.py",
+		"/C/Users/1/Documents/py/chapter6/08_pr_04.py",
+		"/C/Users/1/Documents/py/chapter6/07_pr_03.py",
+		"/C/Users/1/Documents/py/chapter6/06_pr_02.py",
+		"/C/Users/1/Documents/py/chapter6/05_pr_01.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
